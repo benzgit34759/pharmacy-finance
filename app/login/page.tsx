@@ -39,7 +39,7 @@ export default function LoginPage() {
           <div className="bg-blue-100 w-16 h-16 rounded-2xl flex items-center justify-center mx-auto mb-4">
             <Building2 className="h-8 w-8 text-blue-600" />
           </div>
-          <h1 className="text-2xl font-bold text-gray-900">ร้านยา</h1>
+          <h1 className="text-2xl font-bold text-gray-900">ร้านยาบ้านเขินฟาร์มา</h1>
           <p className="text-gray-500 text-sm mt-1">ระบบบัญชีรายวัน</p>
         </div>
 
