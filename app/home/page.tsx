@@ -32,7 +32,7 @@ export default async function HomePage() {
               <Building2 className="h-5 w-5 text-blue-600" />
             </div>
             <div>
-              <p className="text-xs text-gray-400">ร้านยา — บัญชีรายวัน</p>
+              <p className="text-xs text-gray-400">ร้านยาบ้านเขินฟาร์มา</p>
               <p className="text-sm font-semibold text-gray-800 leading-tight">{displayName}</p>
             </div>
           </div>

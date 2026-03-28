@@ -5,8 +5,8 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'ร้านยา — บัญชีรายวัน',
-  description: 'ระบบบันทึกบัญชีรายวันสำหรับร้านยา',
+  title: 'ร้านยาบ้านเขินฟาร์มา',
+  description: 'ระบบบันทึกบัญชีรายวัน ร้านยาบ้านเขินฟาร์มา',
 }
 
 export default function RootLayout({
